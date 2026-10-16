@@ -20,7 +20,7 @@ export const businesses = [
     about: 'Fresh and healthy freeze-dried meals, ready in minutes.',
     kind: 'redirect',
     url: 'https://www.freshoneed.com/',
-    image: '/images/freshoneed-meal.jpg',
+    image: 'image - 2026-10-16T122924.478.png',
     tone: 'meal',
     id: 'freshoneed',
   },

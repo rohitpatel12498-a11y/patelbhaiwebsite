@@ -43,7 +43,7 @@ export default function App() {
           </div>
 
           <h1>
-            Four businesses, <span className="grad">one address.</span>
+            Multi businesses, <span className="grad">one address.</span>
           </h1>
           <p className="hero-lead">
             {site.tagline} Open a website, or call and message on WhatsApp.

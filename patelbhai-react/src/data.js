@@ -26,7 +26,7 @@ export const businesses = [
   },
   {
     name: 'Physical Therapy',
-    about: 'Move Better. Recover Stronger. In Surat & Online gLOBALLY.',
+    about: 'Move Better. Recover Stronger. In Surat & Online Globally.',
     kind: 'contact',
     image: 'https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?auto=format&fit=crop&w=1200&q=80',
     fallback: '/images/therapy.svg',

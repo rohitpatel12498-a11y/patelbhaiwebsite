@@ -46,7 +46,7 @@ export default function App() {
             Multi businesses, <span className="grad">one address.</span>
           </h1>
           <p className="hero-lead">
-            {site.tagline} Open a website, or call and message on WhatsApp.
+            {site.tagline} Visit our website or connect with us directly by phone or WhatsApp..
           </p>
 
           <nav className="jump" aria-label="Businesses">

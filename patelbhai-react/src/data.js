@@ -9,9 +9,9 @@ export const site = {
   name: 'Patel Bhai',
   domain: 'patelbhai.com',
   tagline: 'Meals, care, technology, and wholesale supply.',
-  phone_display: '+91 XXXXX XXXXX',
-  phone_tel: '',
-  whatsapp: '',
+  phone_display: '+91 70666 38986',
+  phone_tel: '+917066638986',
+  whatsapp: '7066638986',
 };
 
 export const businesses = [
@@ -33,9 +33,9 @@ export const businesses = [
     tone: 'care',
     id: 'therapy',
     offers: ['Surat clinic', 'Online across India'],
-    phone_display: '+91 70666 38986',
-    phone_tel: '+917066638986',
-    whatsapp: '917066638986',
+    phone_display: '+91 99989 29880',
+    phone_tel: '+919998929880',
+    whatsapp: '919998929880',
   },
   // {
   //   name: 'IT Services',
@@ -55,7 +55,7 @@ export const businesses = [
   {
     name: 'Wholesale Vegetables',
     about:
-      'Perishable vegetables for bulk buyers. Each order is a full Eicher or a full truck, not a small pack by the kilo.',
+      'Fresh Vegetables. Full Loads. Reliable Supply.',
     kind: 'contact',
     badge: 'Bulk',
     image: 'https://images.unsplash.com/photo-1632776350300-11016768b521?auto=format&fit=crop&w=1200&q=80',
